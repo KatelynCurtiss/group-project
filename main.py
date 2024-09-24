@@ -11,11 +11,11 @@
 # Input
 num1 = float(input("Please enter the base: "))
 num2 = float(input("Please enter the height: "))
+num3 = float(2)
 
 
 # Process
-# Practice useing all the Arithmetic Operators!^.^
-total = num1 * num2
+total = num1 * num2 / num3
 
 
 
